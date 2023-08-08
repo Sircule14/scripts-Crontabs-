@@ -1,0 +1,12 @@
+First Step:
+Download clean_script.sh
+
+Open crontab on linux writing crontab -e in Linux terminal
+
+
+Down to the bottom and write the location of the file and :
+@reboot /home.sirluminatic/Downloads/clean_script.sh
+
+Save whit ctrl + O 
+
+
